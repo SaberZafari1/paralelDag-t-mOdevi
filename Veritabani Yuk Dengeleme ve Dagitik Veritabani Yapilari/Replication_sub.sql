@@ -1,0 +1,5 @@
+
+
+-- subscriber
+
+CREATE DATABASE ReplicationDB;
